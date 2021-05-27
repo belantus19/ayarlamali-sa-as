@@ -1,2 +1,1 @@
-# ayarlamali-sa-as
-Belantus#3519
+**Belantus#3519** **command.js yi komut klasörünüze atın aynı şekilde main.js'de ki kodu da main dosyanıza atın**
